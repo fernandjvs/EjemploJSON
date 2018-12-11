@@ -1,0 +1,93 @@
+"datos":
+{
+	"usuarios":[
+		{ 	"nombre":"Luis",
+			"apellidos": "Rodriguez Granda",
+			"edad":28,
+			"direccion": {
+				"direccion": "Avda de Las Conchiñas",
+				"numero":"17",
+				"codigo postal":15008,
+				"poblacion": "La Coruña"
+			},
+			"telefonos": [{
+				"numero" : 675589412,
+				"tipo" : "Móvil"
+			}],
+			"tipo de usuario": "básico",
+			"fecha de alta": 12/01/2018
+		},
+		{
+			"nombre":"María",
+			"apellidos": "Pérez Gómez",
+			"edad":12,
+			"direccion": {
+				"direccion": "Ronda de Outeiro",
+				"numero":"158",
+				"codigo postal":15008,
+				"poblacion": "La Coruña"
+			},
+			"tipo de usuario": "familiar básico",
+			"fecha de alta": 12/01/2012
+		},
+		{
+			"nombre":"Laura",
+			"apellidos": "Gómez Otero ",
+			"edad":42,
+			"direccion": {
+				"direccion": "Ronda de Outeiro",
+				"numero":"158",
+				"codigo postal":15008,
+				"poblacion": "La Coruña"
+			},
+			"telefonos":[{
+				"numero": 981225478,
+				"tipo": "fijo"
+			},
+			{
+				"numero": 635248795,
+				"tipo": "móvil"
+			}
+			],
+			"tipo de usuario": "familiar básico",
+			"fecha de alta": 12/01/2012
+		},
+		{
+			"nombre":"Jose María",
+			"apellidos": "Pérez Ruiz ",
+			"edad":37,
+			"direccion": {
+				"direccion": "Ronda de Outeiro",
+				"numero":"158",
+				"codigo postal":15008,
+				"poblacion": "La Coruña"
+			},
+			"telefonos":[{
+				"numero": 981225478,
+				"tipo": "fijo"
+			},
+			{
+				"numero": 635596211,
+				"tipo": "móvil"
+			}
+			],
+			"tipo de usuario": "familiar básico",
+			"fecha de alta": 12/01/2012
+		}
+		{
+			"nombre":"Luis",
+			"apellidos": "Rodriguez Granda",
+			"edad":28,
+			"direccion": {
+				"direccion": "Avda de Las Conchiñas",
+				"numero":"17",
+				"codigo postal":15008,
+				"poblacion": "La Coruña"
+			},
+			"tipo de usuario": "premium",
+			"fecha de alta": 06/23/2000
+		}
+	
+	
+	]
+}
