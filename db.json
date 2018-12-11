@@ -1,5 +1,4 @@
-{  
-   "datos":{  
+{    
       "usuarios":[  
          {  
             "nombre":"Luis",
@@ -93,5 +92,4 @@
             "fecha de alta":"06 / 23 / 2000"
          }
       ]
-   }
 }
